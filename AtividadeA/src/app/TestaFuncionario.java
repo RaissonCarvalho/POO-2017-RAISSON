@@ -1,4 +1,4 @@
-package BancoApp;
+package app;
 import models.Funcionario;
         
 public class TestaFuncionario {

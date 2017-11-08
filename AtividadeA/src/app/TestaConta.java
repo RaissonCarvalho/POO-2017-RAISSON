@@ -1,4 +1,4 @@
-package BancoApp;
+package app;
 import models.Cliente;
 import models.Conta;
 import models.Funcionario;
